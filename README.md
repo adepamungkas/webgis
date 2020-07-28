@@ -17,6 +17,7 @@ for instalation
 
 *note
 need enhancment for all feature run with all  success and i will improve it.
+untuk fungsi create, update, delete blum terimplement dalam API method,tetapi untuk filter atau searching dan get all sudah terimplement dalam method API
 
 Thank You
 
