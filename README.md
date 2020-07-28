@@ -9,7 +9,7 @@ Several Libray in this app:
 3. nodeman
 4. pg (PostgreSql library for node js)
 5. body-parser
-6. Leaflet Js providing Open SOurce API for map
+6. Leaflet Js providing Open Source API for map
 
 for instalation 
 1. copy database backup file in db folder and then run in dbadmin as PostgreeSql Editor
